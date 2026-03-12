@@ -34,4 +34,20 @@ Explore the relationship between the implied yield curve and the market/contract
 * **Experiment 2 (Curve Steepening/Flattening):** Perturb only the long-maturity bond prices, leaving the short-maturity bonds fixed. Repeat by holding the long bonds constant and perturbing the short ones.
 * **Experiment 3 (Coupon Adjustment):** Adjust the coupons of the bonds in a similar investigation.
 * **Objective:** In all experiments, observe and characterize the impact on the bootstrapped yield curve.
-  
+
+---
+
+##  Tech Stack & Environment
+
+
+<p>
+  <b> Programming Languages:</b> 
+  <img align="middle" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><img align="middle" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><img align="middle" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /><img align="middle" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /><img align="middle" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /><img align="middle" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+<p>
+  <b> Data Science & Machine Learning:</b> 
+  <img align="middle" src="
+
+## Author 
+Github: Muối 
