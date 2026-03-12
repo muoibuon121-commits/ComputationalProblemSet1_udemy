@@ -10,8 +10,8 @@
 Explore the relationship between interest rates and bond prices. 
 
 **Setup:** Create a coupon bond with a 5-year maturity, paying a 6% coupon semiannually. Create a flat yield curve with a 7% rate level.
-* **(a) Yield Sensitivity:** Price the bond with a flat yield curve with rate levels varying between 5% and 9%. Use the shift method of the curve object to perturb the rate level from the 7% base level.
-* **(b) Maturity Effect:** While keeping the same coupons, create new bond objects with maturities of 6, 8, 10, 15, and 20 years. For each bond, carry out the same exercise as in (a). *Objective: Conclude about the yield sensitivity of bond prices and how maturity affects it.*
+> (a) Yield Sensitivity:** Price the bond with a flat yield curve with rate levels varying between 5% and 9%. Use the shift method of the curve object to perturb the rate level from the 7% base level.
+> (b) Maturity Effect:** While keeping the same coupons, create new bond objects with maturities of 6, 8, 10, 15, and 20 years. For each bond, carry out the same exercise as in (a). *Objective: Conclude about the yield sensitivity of bond prices and how maturity affects it.*
 * **(c) Coupon Effect:** Starting from the bond in (a), leaving maturity constant, try coupon rates of 8%, 10%, 15%, 20%, and 30%. *Objective: Characterize the coupon effect on the yield sensitivity of bonds.*
 
 ---
