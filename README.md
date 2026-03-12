@@ -51,12 +51,12 @@ Explore the relationship between the implied yield curve and the market/contract
 </p>
 
 <p>
-  <b>📈 Quantitative & Financial Modeling:</b><br>
+  <b> Quantitative & Financial Modeling:</b><br>
   <img align="middle" src="https://img.shields.io/badge/QuantLib-F37021?style=for-the-badge" alt="QuantLib" />
 </p>
 
 <p>
-  <b>📊 Data Manipulation & Visualization:</b><br>
+  <b> Data Manipulation & Visualization:</b><br>
   <img align="middle" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img align="middle" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img align="middle" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
@@ -68,7 +68,7 @@ Explore the relationship between the implied yield curve and the market/contract
 
 **Currently focusing on Fixed Income valuation and building robust financial models using Python and QuantLib.**
 
-### 📉 Computational Problem Set 1: Bond Pricing & Yield Dynamics
+### Computational Problem Set 1: Bond Pricing & Yield Dynamics
 *(Status: In Progress | Tech Stack: Python, QuantLib, NumPy, Matplotlib)*
 
 * **Problem 1 (Yield Sensitivity & Maturity):** Explored the fundamental relationship between interest rates and bond prices by constructing a flat yield curve and pricing 5-year coupon bonds. Investigated the effects of varying maturities (6 to 20 years) and coupon rates (8% to 30%) on yield sensitivity using `QuantLib` shift methods.
