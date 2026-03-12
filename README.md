@@ -1,4 +1,4 @@
-# ComputationalProblemSet1_udemy
+
 ## Featured Coursework: Fixed Income & Computational Finance
 
 **Computational Problem Set 1: Bond Pricing, Yield Sensitivity & Bootstrapping**
