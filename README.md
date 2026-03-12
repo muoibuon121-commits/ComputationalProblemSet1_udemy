@@ -37,17 +37,50 @@ Explore the relationship between the implied yield curve and the market/contract
 
 ---
 
-##  Tech Stack & Environment
+<div align="center">
+  <img src="[LINK_ẢNH_PIXEL_ART_CỦA_BẠN]" width="350" alt="Quant/AI Developer Pixel Art" />
+  
+  <h1>Hi there, I'm [Tên của bạn]! 👋</h1>
+  <p><b>Aspiring Quantitative Researcher | Financial Volatility Analyst</b></p>
+  <p><i>Building robust models, exploring financial markets, and pushing the boundaries of AI.</i></p>
+</div>
 
+---
+
+## 🛠 Project Tech Stack & Environment
+
+Dự án này được xây dựng và mô phỏng hoàn toàn dựa trên các công cụ chuyên sâu về Quantitative Finance và Data Science dưới đây:
 
 <p>
-  <b> Programming Languages:</b> 
-  <img align="middle" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><img align="middle" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><img align="middle" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /><img align="middle" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /><img align="middle" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /><img align="middle" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <b>💻 Core Language & Environment:</b><br>
+  <img align="middle" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img align="middle" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
 <p>
-  <b> Data Science & Machine Learning:</b> 
-  <img align="middle" src="
+  <b>📈 Quantitative & Financial Modeling:</b><br>
+  <img align="middle" src="https://img.shields.io/badge/QuantLib-F37021?style=for-the-badge" alt="QuantLib" />
+</p>
 
-## Author 
-Github: Muối 
+<p>
+  <b>📊 Data Manipulation & Visualization:</b><br>
+  <img align="middle" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img align="middle" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img align="middle" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+</p>
+
+---
+
+## Featured Coursework & Research
+
+**Currently focusing on Fixed Income valuation and building robust financial models using Python and QuantLib.**
+
+### 📉 Computational Problem Set 1: Bond Pricing & Yield Dynamics
+*(Status: In Progress | Tech Stack: Python, QuantLib, NumPy, Matplotlib)*
+
+* **Problem 1 (Yield Sensitivity & Maturity):** Explored the fundamental relationship between interest rates and bond prices by constructing a flat yield curve and pricing 5-year coupon bonds. Investigated the effects of varying maturities (6 to 20 years) and coupon rates (8% to 30%) on yield sensitivity using `QuantLib` shift methods.
+* **Problem 2 (Yield-to-Maturity):** Implemented numerical root-finding algorithms to investigate YTM behavior for bonds trading at par, premium, and discount. 
+* **Problem 3 (Bootstrapping):** Utilized `curve_factory` functions to bootstrap yield curves. Conducted scenario analysis (parallel shifts, curve steepening/flattening) to observe the implied yield curve's reaction to market perturbations.
+
+---
+
