@@ -36,23 +36,16 @@ Explore the relationship between the implied yield curve and the market/contract
 * **Objective:** In all experiments, observe and characterize the impact on the bootstrapped yield curve.
 
 ---
-
-<div align="center">
-  <img src="[LINK_ẢNH_PIXEL_ART_CỦA_BẠN]" width="350" alt="Quant/AI Developer Pixel Art" />
-  
-  <h1>Hi there, I'm [Tên của bạn]! 👋</h1>
   <p><b>Aspiring Quantitative Researcher | Financial Volatility Analyst</b></p>
   <p><i>Building robust models, exploring financial markets, and pushing the boundaries of AI.</i></p>
 </div>
 
 ---
 
-## 🛠 Project Tech Stack & Environment
-
-Dự án này được xây dựng và mô phỏng hoàn toàn dựa trên các công cụ chuyên sâu về Quantitative Finance và Data Science dưới đây:
+## Project Tech Stack & Environment
 
 <p>
-  <b>💻 Core Language & Environment:</b><br>
+  <b> Core Language & Environment:</b><br>
   <img align="middle" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img align="middle" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
